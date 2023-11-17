@@ -31,6 +31,7 @@ header {
     display: flex;
     align-items:center;
     justify-content: space-between;
+    background-color: #d5f2ff;
 }
 
 header ul {
@@ -53,3 +54,11 @@ header li {
 .circle {
     border-radius: 50%;
 }
+main section img {
+    width:30px;
+    height:30px;
+    padding:8px;
+    vertical-align: middle;
+}
+    
+
